@@ -8,8 +8,11 @@ nav: true
 ---
 ### Conferences
 
+[One-Shot Empirical Privacy Estimation for Federated Learning](https://arxiv.org/abs/2302.03098)   
+Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. ICLR 2024. **(Oral, Top 1% of submissions)** 
+
 [Algorithmic Pluralism: A Structural Approach Towards Equal Opportunity](https://arxiv.org/abs/2305.08157)   
-Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. EAAMO 2023. * denotes equal contribution
+Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. EAAMO 2023.
 
 
 [When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
@@ -36,13 +39,10 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 Medical Imaging in Deep Learning 2020  
 Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and A. Goldenberg.  2020. * denotes equal contribution.
 
-### In Submission
+### Preprints
 
-[One-Shot Empirical Privacy Estimation for Federated Learning](https://arxiv.org/abs/2302.03098)   
-Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. 2023. 
-
-Improving Robustness to Distribution Shift with Algorithmic Stability   
-Hulkund, N.*, **V.M. Suriyakumar**, T. Killian, M. Ghassemi. 2022.
+Implications of Algorithmic Stability for Distributional Shift  
+Hulkund, N., **V.M. Suriyakumar**, T. Killian, M. Ghassemi. 2022.
 
 <!-- ### Refereed Workshops
 
@@ -61,7 +61,7 @@ Theory and Practice of Differential Privacy 2020
 ### Books and Book Chapters
 
 Differential Privacy and Medical Data Analysis  
-Differential Privacy for Artificial Intelligence Applications.   
+Differential Privacy and Artificial Intelligence: Theory and Practice
 Now Publisher Inc.  
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2021. (Forthcoming)
+**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2024. (Forthcoming)
 
