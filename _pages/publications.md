@@ -6,20 +6,11 @@ description: publications by categories in reversed chronological order.
 years:
 nav: true
 ---
-### Conferences
+
+### Data Privacy
 
 [One-Shot Empirical Privacy Estimation for Federated Learning](https://arxiv.org/abs/2302.03098)   
 Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. ICLR 2024. **(Oral, Top 1% of submissions)** 
-
-[Algorithmic Pluralism: A Structural Approach Towards Equal Opportunity](https://arxiv.org/abs/2305.08157)   
-Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. EAAMO 2023.
-
-
-[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
-**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, Top 3% of submissions)** * denotes equal supervision
-
-[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
-**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
 
 [Private Multi-Winner Voting for Machine Learning](https://arxiv.org/abs/2211.15410)  
 Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. PETS 2023. * denotes equal contribution
@@ -34,6 +25,21 @@ ACM FAccT 2021
 [Can You Fake It Until You Make It?: Impacts of Differentially Private Synthetic Data on Downstream Classification Fairness ](https://dl.acm.org/doi/10.1145/3442188.3445879)  
 ACM FAccT 2021  
 Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
+
+### Unlearning
+
+[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
+**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
+
+### Fairness 
+
+[Algorithmic Pluralism: A Structural Approach Towards Equal Opportunity](https://arxiv.org/abs/2305.08157)   
+Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. FAccT 2024. **Best Paper Award**
+
+[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
+**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, Top 3% of submissions)** * denotes equal supervision
+
+### Healthcare
 
 [Using Generative Models for Pediatric wbMRI](https://arxiv.org/abs/2006.00727)   
 Medical Imaging in Deep Learning 2020  
