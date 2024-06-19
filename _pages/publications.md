@@ -26,10 +26,13 @@ ACM FAccT 2021
 ACM FAccT 2021  
 Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
-### Unlearning
+### Copyright and Unlearning
 
 [Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
 **Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
+
+The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models
+**Suriyakumar, V.M.**, P. Menell, D.H. Menell, A. Wilson. GenLaw Workshop at ICML 2024.
 
 ### Fairness 
 
