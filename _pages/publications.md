@@ -28,10 +28,10 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Copyright and Unlearning
 
-Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models
+Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models  
 **Suriyakumar, V.M.\***, R. Alur\*, A. Sekhari, M. Raghavan, A. Wilson. In Submission. 2024. * denotes equal contribution
 
-The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models
+The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
 **Suriyakumar, V.M.**, P. Menell, D.H. Menell, A. Wilson. GenLaw Workshop at ICML 2024.
 
 [Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
