@@ -16,7 +16,7 @@ Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. IC
 Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. PETS 2023. * denotes equal contribution
 
 [Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
-Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. (alphabetical order)
+Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. (Spotlight) (alphabetical order)
 
 [Chasing Your Long Tails: Differentially Private Prediction in Health Care Settings](https://arxiv.org/abs/2010.06667)    
 ACM FAccT 2021  
@@ -28,11 +28,15 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Copyright and Unlearning
 
-[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
-**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
+Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models
+**Suriyakumar, V.M.\***, R. Alur\*, A. Sekhari, M. Raghavan, A. Wilson. In Submission. 2024. * denotes equal contribution
 
 The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models
 **Suriyakumar, V.M.**, P. Menell, D.H. Menell, A. Wilson. GenLaw Workshop at ICML 2024.
+
+[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
+**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
+
 
 ### Fairness 
 
