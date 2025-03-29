@@ -7,13 +7,19 @@ years:
 nav: true
 ---
 
-### Data Privacy
+### Privacy \& Copyright
+
+The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
+**Suriyakumar, V.M.**, P. Menell, D. Hadfield-Menell, A. Wilson. GenLaw Workshop at ICML 2024.
 
 [One-Shot Empirical Privacy Estimation for Federated Learning](https://arxiv.org/abs/2302.03098)   
 Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. ICLR 2024. **(Oral, Top 1% of submissions)** 
 
 [Private Multi-Winner Voting for Machine Learning](https://arxiv.org/abs/2211.15410)  
 Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. PETS 2023. * denotes equal contribution
+
+[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
+**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
 
 [Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
 Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. (Spotlight) (alphabetical order)
@@ -26,17 +32,19 @@ ACM FAccT 2021
 ACM FAccT 2021  
 Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
-### Copyright and Unlearning
+### Security \& Safety
 
-Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models  
-**Suriyakumar, V.M.\***, R. Alur\*, A. Sekhari, M. Raghavan, A. Wilson. In Submission. 2024. * denotes equal contribution
+UCD: Unlearning in LLMs with Contrastive Decoding
+In Submission   
+**Suriyakumar, V.M.**, A. Sekhari\*, A. Wilson\*. 2025. \* Denotes equal supervision
 
-The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
-**Suriyakumar, V.M.**, P. Menell, D.H. Menell, A. Wilson. GenLaw Workshop at ICML 2024.
+Layered Unlearning for Adversarial Relearning   
+In Submission   
+Qian, T., **V.M. Suriyakumar**, A. Wilson, D. Hadfield-Menell. 2025
 
-[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
-**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
-
+[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)   
+ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models  
+**Suriyakumar, V.M.**, R. Alur, A. Sekhari, M. Raghavan, A. Wilson. 2024.
 
 ### Fairness 
 
@@ -76,5 +84,5 @@ Theory and Practice of Differential Privacy 2020
 Differential Privacy and Medical Data Analysis  
 Differential Privacy and Artificial Intelligence: Theory and Practice
 Now Publisher Inc.  
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2024. (Forthcoming)
+**Suriyakumar, V.M.**, N. Papernot, and A. Goldenberg. 2024. (Forthcoming)
 
