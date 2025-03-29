@@ -34,7 +34,7 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Security & Safety
 
-UCD: Unlearning in LLMs with Contrastive Decoding
+UCD: Unlearning in LLMs with Contrastive Decoding  
 In Submission   
 **Suriyakumar, V.M.**, A. Sekhari\*, A. Wilson\*. 2025. \* Denotes equal supervision
 
