@@ -7,7 +7,7 @@ years:
 nav: true
 ---
 
-### Privacy \& Copyright
+### Privacy & Copyright
 
 The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
 **Suriyakumar, V.M.**, P. Menell, D. Hadfield-Menell, A. Wilson. GenLaw Workshop at ICML 2024.
@@ -32,7 +32,7 @@ ACM FAccT 2021
 ACM FAccT 2021  
 Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
-### Security \& Safety
+### Security & Safety
 
 UCD: Unlearning in LLMs with Contrastive Decoding
 In Submission   
