@@ -38,7 +38,7 @@ UCD: Unlearning in LLMs with Contrastive Decoding
 In Submission   
 **Suriyakumar, V.M.**, A. Sekhari\*, A. Wilson\*. 2025. \* Denotes equal supervision
 
-Layered Unlearning for Adversarial Relearning   
+[Layered Unlearning for Adversarial Relearning](/assets/pdf/LU_COLM.pdf)   
 In Submission   
 Qian, T., **V.M. Suriyakumar**, A. Wilson, D. Hadfield-Menell. 2025
 
@@ -46,7 +46,11 @@ Qian, T., **V.M. Suriyakumar**, A. Wilson, D. Hadfield-Menell. 2025
 ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models  
 **Suriyakumar, V.M.**, R. Alur, A. Sekhari, M. Raghavan, A. Wilson. 2024.
 
-### Fairness 
+### Fairness
+
+Computational challenges arising in algorithmic fairness and healt equity with generative AI.   
+**V.M. Suriyakumar**, A. Zink, M. Hightower, M. Ghassemi, B. Beaulieu-Jones. 2025.  
+Nature Computational Science 
 
 [Algorithmic Pluralism: A Structural Approach Towards Equal Opportunity](https://arxiv.org/abs/2305.08157)   
 Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. FAccT 2024. **Best Paper Award**
