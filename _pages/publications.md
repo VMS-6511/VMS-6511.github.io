@@ -48,7 +48,7 @@ ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Mod
 
 ### Fairness
 
-Computational challenges arising in algorithmic fairness and healt equity with generative AI.   
+Computational challenges arising in algorithmic fairness and health equity with generative AI.   
 **V.M. Suriyakumar**, A. Zink, M. Hightower, M. Ghassemi, B. Beaulieu-Jones. 2025.  
 Nature Computational Science 
 
