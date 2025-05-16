@@ -7,7 +7,7 @@ years:
 nav: true
 ---
 
-### Privacy & Copyright
+### Privacy, Memorization, & Copyright
 
 The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
 **Suriyakumar, V.M.**, P. Menell, D. Hadfield-Menell, A. Wilson. GenLaw Workshop at ICML 2024.
@@ -34,11 +34,23 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Security & Safety
 
+Mitigating Inflated Safety Risks in Language Models from Superficial Style Alignment  
+In Submission  
+Xiao, Y., S. Tonekaboni, W. Gerych, **V.M. Suriyakumar**, M. Ghassemi. 2025  
+
+TOGA: Trigger Optimization for Clean Data Ordering Backdoor Attack   
+In Submission  
+Jin, A., W. Gerych, A. Gourabathina, **V.M. Suriyakumar**, M.Ghassemi. 2025
+
+Learning the Wrong Lessons: Syntatic-Domain Shortcuts in Language Models   
+In Submission  
+Shaib, C.\*, **Suriyakumar, V.M.\***, L. Segeun, B. Wallace, M. Ghassemi. 2025. * denotes equal contribution
+
 UCD: Unlearning in LLMs with Contrastive Decoding  
 In Submission   
 **Suriyakumar, V.M.**, A. Sekhari\*, A. Wilson\*. 2025. \* Denotes equal supervision
 
-[Layered Unlearning for Adversarial Relearning](/assets/pdf/LU_COLM.pdf)   
+[Layered Unlearning for Adversarial Relearning](https://arxiv.org/pdf/2505.09500)   
 In Submission   
 Qian, T., **V.M. Suriyakumar**, A. Wilson, D. Hadfield-Menell. 2025
 
@@ -47,6 +59,11 @@ ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Mod
 **Suriyakumar, V.M.**, R. Alur, A. Sekhari, M. Raghavan, A. Wilson. 2024.
 
 ### Fairness
+
+Iterative Nullifcation Transforms for Debiasing
+Vision-Language Models at Test-Time.  
+In Submission    
+Q. Perian, **V.M. Suriyakumar**, M.Ghassemi. 2025.  
 
 Computational challenges arising in algorithmic fairness and health equity with generative AI.   
 **V.M. Suriyakumar**, A. Zink, M. Hightower, M. Ghassemi, B. Beaulieu-Jones. 2025.  
@@ -63,25 +80,6 @@ Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. FAccT 2024. **Best Paper Aw
 [Using Generative Models for Pediatric wbMRI](https://arxiv.org/abs/2006.00727)   
 Medical Imaging in Deep Learning 2020  
 Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and A. Goldenberg.  2020. * denotes equal contribution.
-
-### Preprints
-
-Implications of Algorithmic Stability for Distributional Shift  
-Hulkund, N., **V.M. Suriyakumar**, T. Killian, M. Ghassemi. 2022.
-
-<!-- ### Refereed Workshops
-
-The Challenges of Differentially Private Prediction in Healthcare    
-IJCAI 2021 AI 4 Social Good Workshop organized by Harvard CRCS (Long Talk).     
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020. 
-
-The Challenges of Differentially Private Prediction in Healthcare   
-NeurIPS 2020 Privacy Preserving Machine Learning Workshop    
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020.
-
-The Pitfalls of Differentially Private Prediction in Healthcare    
-Theory and Practice of Differential Privacy 2020    
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020.  -->
 
 ### Books and Book Chapters
 
