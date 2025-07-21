@@ -34,7 +34,8 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Security & Safety
 
-Mitigating Inflated Safety Risks in Language Models from Superficial Style Alignment  
+[When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
+](https://arxiv.org/abs/2506.07452)  
 In Submission  
 Xiao, Y., S. Tonekaboni, W. Gerych, **V.M. Suriyakumar**, M. Ghassemi. 2025  
 
@@ -46,7 +47,7 @@ Learning the Wrong Lessons: Syntatic-Domain Shortcuts in Language Models
 In Submission  
 Shaib, C.\*, **Suriyakumar, V.M.\***, L. Segeun, B. Wallace, M. Ghassemi. 2025. * denotes equal contribution
 
-UCD: Unlearning in LLMs with Contrastive Decoding  
+[UCD: Unlearning in LLMs with Contrastive Decoding](http://arxiv.org/abs/2506.12097)  
 In Submission   
 **Suriyakumar, V.M.**, A. Sekhari\*, A. Wilson\*. 2025. \* Denotes equal supervision
 
@@ -65,7 +66,7 @@ Vision-Language Models at Test-Time.
 In Submission    
 Q. Perian, **V.M. Suriyakumar**, M.Ghassemi. 2025.  
 
-Computational challenges arising in algorithmic fairness and health equity with generative AI.   
+[Computational challenges arising in algorithmic fairness and health equity with generative AI](https://www.nature.com/articles/s43588-025-00806-9)   
 **V.M. Suriyakumar**, A. Zink, M. Hightower, M. Ghassemi, B. Beaulieu-Jones. 2025.  
 Nature Computational Science 
 
