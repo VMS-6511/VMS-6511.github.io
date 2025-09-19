@@ -35,7 +35,7 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 ### Security & Safety
 
 Learning the Wrong Lessons: Syntatic-Domain Shortcuts in Language Models     
-Shaib, C.\*, **Suriyakumar, V.M.\***, L. Sagun, B. Wallace, M. Ghassemi. NeurIPS 2025. **(Spotlight, Top 3\% of submissions)** * denotes equal contribution
+Shaib, C.\*, **Suriyakumar, V.M.\***, L. Sagun, B. Wallace, M. Ghassemi. NeurIPS 2025. **(Spotlight, Top 3% of submissions)** * denotes equal contribution
 
 [When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
 ](https://arxiv.org/abs/2506.07452)  
