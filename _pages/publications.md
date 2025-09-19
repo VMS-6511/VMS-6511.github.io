@@ -22,7 +22,7 @@ Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. 
 **Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
 
 [Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
-Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. (Spotlight) (alphabetical order)
+Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. **(Spotlight, Top 3% of submissions)** (alphabetical order)
 
 [Chasing Your Long Tails: Differentially Private Prediction in Health Care Settings](https://arxiv.org/abs/2010.06667)    
 ACM FAccT 2021  
@@ -34,6 +34,9 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Security & Safety
 
+Learning the Wrong Lessons: Syntatic-Domain Shortcuts in Language Models     
+Shaib, C.\*, **Suriyakumar, V.M.\***, L. Sagun, B. Wallace, M. Ghassemi. NeurIPS 2025. **(Spotlight, Top 3\% of submissions)** * denotes equal contribution
+
 [When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
 ](https://arxiv.org/abs/2506.07452)  
 In Submission  
@@ -42,10 +45,6 @@ Xiao, Y., S. Tonekaboni, W. Gerych, **V.M. Suriyakumar**, M. Ghassemi. 2025
 TOGA: Trigger Optimization for Clean Data Ordering Backdoor Attack   
 In Submission  
 Jin, A., W. Gerych, A. Gourabathina, **V.M. Suriyakumar**, M.Ghassemi. 2025
-
-Learning the Wrong Lessons: Syntatic-Domain Shortcuts in Language Models   
-In Submission  
-Shaib, C.\*, **Suriyakumar, V.M.\***, L. Segeun, B. Wallace, M. Ghassemi. 2025. * denotes equal contribution
 
 [UCD: Unlearning in LLMs with Contrastive Decoding](http://arxiv.org/abs/2506.12097)  
 In Submission   
@@ -74,7 +73,7 @@ Nature Computational Science
 Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. FAccT 2024. **Best Paper Award**
 
 [When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
-**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, Top 3% of submissions)** * denotes equal supervision
+**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, Top 1% of submissions)** * denotes equal supervision
 
 ### Healthcare
 
