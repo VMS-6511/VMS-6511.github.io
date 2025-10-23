@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: in submission
+permalink: /preprints/
+title: preprints
 description: papers in submission by categories.
 years:
 nav: true
@@ -10,7 +10,7 @@ nav: true
 ### Privacy, Memorization, & Copyright
 
 The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implications for Generative Models    
-**Suriyakumar, V.M.**, P. Menell, D. Hadfield-Menell, A. Wilson. GenLaw Workshop at ICML 2024.
+**Suriyakumar, V.M.**, P. Menell, D. Hadfield-Menell, A. Wilson. GenLaw Workshop at ICML 2024. (by request)
 
 ### Security & Safety
 
@@ -21,7 +21,7 @@ Xiao, Y., S. Tonekaboni, W. Gerych, **V.M. Suriyakumar**, M. Ghassemi. 2025
 
 TOGA: Trigger Optimization for Clean Data Ordering Backdoor Attack   
 In Submission  
-Jin, A., W. Gerych, A. Gourabathina, **V.M. Suriyakumar**, M.Ghassemi. 2025
+Jin, A., W. Gerych, A. Gourabathina, **V.M. Suriyakumar**, M.Ghassemi. 2025 (by request)
 
 [UCD: Unlearning in LLMs with Contrastive Decoding](http://arxiv.org/abs/2506.12097)  
 In Submission   

@@ -85,7 +85,7 @@ collections:
     permalink: /publications/:path/
   in submission:
     output: true
-    permalink: /in-submission/:path/
+    permalink: /preprints/:path/
 
 news_limit: 3
 
