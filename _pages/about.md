@@ -21,7 +21,7 @@ social: true
  
  **These days, the goal of my research is to prevent the misuse of foundation models, especially when it comes to open-sourcing these models.** I work on questions related to uncovering risks of open-weight models, applying intepretability to understand these risks, and building safeguards to address these risks. 
 
- My research on privacy, security, and safety has been recognized with spotlight, oral, and best paper awards at NeurIPS, ICLR, ICML, and FAccT. These awards are listed below:
+ My research advancing the privacy, security and safety of machine learning has received awards at NeurIPS, ICLR, ICML, and FAccT:
 
  - ICML 2022 Spotlight
  - ICML 2023 Oral
