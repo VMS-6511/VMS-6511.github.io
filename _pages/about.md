@@ -27,7 +27,9 @@ social: true
  - ICML 2023 Oral
  - ICLR 2024 Oral
  - FAccT 2024 Best Paper Award
- - NeurIPS 2025 Spotlight 
+ - NeurIPS 2025 Spotlight
+
+ I'll be a Visiting Student Researcher at Stanford with [Dr. Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) from February to June 2026. Afterwards, I'll be interning at Meta's Superintelligence Labs working on privacy and security research for AI agents from June to August 2026. 
 
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
