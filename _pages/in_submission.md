@@ -14,12 +14,12 @@ The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implicatio
 
 ### Security & Safety
 
-On Watermarking Protein Language Models: Possibilities and Limitations
+On Watermarking Protein Language Models: Possibilities and Limitations.  
 Technical Report.  
 Suriyakumar, V.M. 2025 (by request)
 
-Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders
-In Submission
+Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders.  
+In Submission.  
 Jin, A., A. Gourabathina, **V.M. Suriyakumar**, W. Gerych, M.Ghassemi. 2025 (by request)
 
 [When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
