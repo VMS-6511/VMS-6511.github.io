@@ -22,11 +22,6 @@ Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Enco
 In Submission.  
 Jin, A., A. Gourabathina, **V.M. Suriyakumar**, W. Gerych, M.Ghassemi. 2025 (by request)
 
-[When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
-](https://arxiv.org/abs/2506.07452)  
-In Submission  
-Xiao, Y., S. Tonekaboni, W. Gerych, **V.M. Suriyakumar**, M. Ghassemi. 2025  
-
 TOGA: Trigger Optimization for Clean Data Ordering Backdoor Attack   
 In Submission  
 Jin, A., W. Gerych, A. Gourabathina, **V.M. Suriyakumar**, M.Ghassemi. 2025 (by request)

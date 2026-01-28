@@ -19,7 +19,7 @@ social: true
  
  Broadly, I'm interested in the privacy, security, and safety of machine learning. I've worked on many topics in these areas including differential privacy, auditing, algorithmic fairness, and unlearning. 
  
- **These days, the goal of my research is to address open-weight model safety and security.** This includes questions on safety pretraining, unlearning, robustness to tampering attacks, and intepretability. 
+ **These days, the focus of my research is to address open-weight model safety and security.** This includes questions on safety pretraining, unlearning, robustness to tampering attacks, and intepretability. Simultaneously, I spend sometime thinking about security issues for closed-models such as jailbreaking and securing finetuning APIs. 
 
  My research advancing the privacy, security and safety of machine learning has received awards at NeurIPS, ICLR, ICML, and FAccT:
 
@@ -28,7 +28,6 @@ social: true
  - ICLR 2024 Oral
  - FAccT 2024 Best Paper Award
  - NeurIPS 2025 Spotlight
-
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
 
