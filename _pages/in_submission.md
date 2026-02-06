@@ -14,6 +14,10 @@ The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implicatio
 
 ### Security & Safety
 
+The Moderation Learning Curve for Open Generative AI Intermediaries.  
+In Submission.  
+Suriyakumar, V.M., T. Gillespie, A. Wilson. 2026.
+
 On Watermarking Protein Language Models: Possibilities and Limitations.  
 Technical Report.  
 Suriyakumar, V.M. 2025 (by request)
@@ -33,10 +37,6 @@ In Submission
 [Layered Unlearning for Adversarial Relearning](https://arxiv.org/pdf/2505.09500)   
 In Submission   
 Qian, T., **V.M. Suriyakumar**, A. Wilson, D. Hadfield-Menell. 2025
-
-[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)   
-ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models  
-**Suriyakumar, V.M.**, R. Alur, A. Sekhari, M. Raghavan, A. Wilson. 2024.
 
 ### Fairness
 

@@ -31,6 +31,10 @@ Cheng, V., V.M. Suriyakumar, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 ### Security & Safety
 
+[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)   
+TMLR 2026.   
+**Suriyakumar, V.M.**, R. Alur, A. Sekhari, M. Raghavan, A. Wilson. 2026.
+
 [When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment
 ](https://arxiv.org/abs/2506.07452)  
 ICLR 2026.   
