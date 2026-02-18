@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MIT EECS, LIDS, IMES, Bridgewater Associates
+description: MIT EECS, LIDS, IMES, Bridgewater AIA Labs, Stanford
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 news: true
 social: true
 ---
- I am a fifth year PhD student at MIT EECS where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). I also collaborate frequently with [Dr. Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/). I'm supported through a fellowship from [Bridgewater Associates and AIA Lab](https://www.bridgewater.com/) led by [Dr. Jas Sekhon](https://statistics.yale.edu/people/jas-sekhon) where I also conduct research part-time. 
+ I am a fifth year PhD student at MIT EECS where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). I also collaborate frequently with [Dr. Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/). I'm supported through a fellowship from [Bridgewater AIA Labs](https://www.bridgewater.com/) led by [Dr. Jas Sekhon](https://statistics.yale.edu/people/jas-sekhon) where I also conduct research part-time. 
  
  Broadly, I'm interested in the privacy, security, and safety of machine learning. I've worked on many topics in these areas including differential privacy, auditing, algorithmic fairness, and unlearning. 
  
