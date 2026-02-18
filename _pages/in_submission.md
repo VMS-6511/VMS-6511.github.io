@@ -16,7 +16,7 @@ The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implicatio
 
 The Role of Temperature Sampling in Adaptive Language Model Evaluation.  
 In Submission.  
-Alur, R.*, V.M.Suriyakumar\*, J. S. Sekhon, Manish Raghavan, Ashia Wilson. 2026. 
+Alur, R.*, V.M.Suriyakumar\*, J. S. Sekhon, M. Raghavan, A. Wilson. 2026. * equal contribution
 
 The Moderation Learning Curve for Open Generative AI Intermediaries.  
 In Submission.  
