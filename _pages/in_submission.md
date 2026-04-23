@@ -14,6 +14,10 @@ The Revealed Preferences of Pre-authorized Licenses and Their Ethical Implicatio
 
 ### Security & Safety
 
+Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM.  
+Preprint.  
+V.M. Suriyakumar, A. Sekhari\*, L. Stempfle\*, R. Wang\*, M. Simpson, R. Portnoff, M. Ghassemi, A. C. Wilson * equal contribution
+
 The Role of Temperature Sampling in Adaptive Language Model Evaluation.  
 In Submission.  
 Alur, R.*, V.M.Suriyakumar\*, J. S. Sekhon, M. Raghavan, A. Wilson. 2026. * equal contribution
