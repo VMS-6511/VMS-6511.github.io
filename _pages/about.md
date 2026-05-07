@@ -19,7 +19,7 @@ social: true
  
  Broadly, I'm interested in the privacy, security, and safety of machine learning. I've worked on many topics in these areas including differential privacy, auditing, algorithmic fairness, and unlearning. 
  
- **These days, the focus of my research is to address open-weight model safety and security.** In particular I've been focusing much of my time on addressing issues surrounding image-based abuse (e.g. CSAM and NCII) that is occurring with open-weight models. Other questions include safety pretraining, unlearning, robustness to tampering attacks, and intepretability. Simultaneously, I spend sometime thinking about security issues for closed-models such as jailbreaking and securing finetuning APIs.
+ **My research focuses on securing internet platforms against malicious behavior enabled by generative AI systems.** I am particularly interested in the safety, security, and governance of open-weight foundation models, with recent work focusing on image-based abuse such as CSAM and NCII generation. Additionally, I focus on addressing safety issues related to cyber misuse, investigating new pretraining algorithms to address dual-use risks. I also investigate security challenges in closed-source systems, including jailbreaking and secure fine-tuning interfaces.
 
  My research advancing the privacy, security and safety of machine learning has received awards at NeurIPS, ICLR, ICML, and FAccT:
 
