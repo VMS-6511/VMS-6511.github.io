@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MIT EECS, LIDS, IMES, Bridgewater AIA Labs, Stanford
+description: MIT EECS, LIDS, IMES, Bridgewater AIA Labs
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 news: true
 social: true
 ---
- I am a fifth year PhD student at MIT EECS where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). I'm supported through a fellowship from [Bridgewater AIA Labs](https://www.bridgewater.com/) advised by [Dr. Daniel Kang](https://ddkang.github.io/) where I research LLM pretraining and post-training. Additionally, I'll be joining the [Red Team at UK AISI](https://www.aisi.gov.uk/category/safeguards) in the Fall as a Research Resident.
+ I am a fifth year PhD student at MIT EECS where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). I'm supported through a fellowship from [Bridgewater AIA Labs](https://www.bridgewater.com/) advised by [Dr. Daniel Kang](https://ddkang.github.io/) where I work on LLM pretraining and post-training.
  
  Broadly, I'm interested in the privacy, security, and safety of machine learning. I've worked on many topics in these areas including differential privacy, auditing, algorithmic fairness, and unlearning. 
  
@@ -28,8 +28,7 @@ social: true
  - ICLR 2024 Oral
  - FAccT 2024 Best Paper Award
  - NeurIPS 2025 Spotlight
- - ICML 2026 AI4Good Spotlight
-
+ - ICML 2026 AI4GOOD Workshop Outstanding Paper Award
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
